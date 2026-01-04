@@ -1,4 +1,12 @@
 # Back-To-Python-Basics
 
-These are a few problem sets to help with the process of learning as a beginner.
-The first file is Greet.py and it is an example of basic Hello World
+This is a python based project.
+
+There are a few problem sets to help with the process of learning as a beginner.
+
+ 1. Greet.py is an example of basic Hello World.
+ 2. Grade_Calculator.py is a program that calculates the grade of sudents results.
+ 3. Name_Input.py
+ 4. Number_Input.py
+ 5. PosNegNumber.py
+ 6. Simple_Addtion.py
