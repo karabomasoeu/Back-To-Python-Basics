@@ -5,4 +5,5 @@ if age >= 18:
      print("You care eligible")
 else:
         print("You are not eligible.")
-        
+
+age_check()
