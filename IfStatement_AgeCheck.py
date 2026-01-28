@@ -1,4 +1,4 @@
-ef age_check():
+def age_check():
     age = int(input("Your age: "))
     
   
