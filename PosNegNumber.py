@@ -1,4 +1,4 @@
-def PositiveOrNegative():
+def PositiveNegative():
 number = int(input("Enter any number: "))
 
 if number > 0:
@@ -8,4 +8,4 @@ if number > 0:
     else:
         print(f"{number} is zero!")
 
-PositiveOrNegative()
+PositiveNegative()
