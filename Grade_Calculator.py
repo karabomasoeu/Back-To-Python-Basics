@@ -1,6 +1,6 @@
 def grade_calculator():
   
-    score = int(input("Enter your the percentage of your mark: "))
+   score = int(input("Enter your the percentage of your mark: ").replace("%", ""))
   
     if score >= 90:
         print(f"Your grade is an A")
