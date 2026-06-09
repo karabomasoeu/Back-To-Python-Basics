@@ -13,3 +13,4 @@ There are a few problem sets to help with the process of learning as a beginner.
  7. Store_and_Print.py
  8. String_Concatenation.py 
  9. Temp_Conversion.py 
+10. EvenOddChecker.py
